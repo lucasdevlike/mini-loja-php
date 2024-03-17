@@ -1,0 +1,20 @@
+{
+    "name": "lucas/carrinhode-compras",
+    "description": "Carrinho de compras com checkout stripe",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lucasfregonezi",
+            "email": "lucasfregonezi@gmail.com"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^13.14",
+        "league/plates": "^3.5",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}

@@ -1,0 +1,13 @@
+input.quantity {
+    left: 30px;
+    width: 25px;
+}
+
+li {
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
